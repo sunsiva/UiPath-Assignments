@@ -1348,9 +1348,9 @@
     "restore": {
       "projectUniqueName": "CalcClientSecurityHash",
       "projectName": "CalcClientSecurityHash",
-      "projectPath": "C:\\Users\\sundarsi\\xtra\\RPA\\UiPath\\Academy\\Level3-Assignment1-ClientHashSecurity\\CalcClientSecurityHash\\.local",
+      "projectPath": "C:\\Users\\sundarsi\\Documents\\UiPath\\UiPath-Assignments\\CalcClientSecurityHash\\.local",
       "packagesPath": "C:\\Users\\sundarsi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sundarsi\\xtra\\RPA\\UiPath\\Academy\\Level3-Assignment1-ClientHashSecurity\\CalcClientSecurityHash\\.local"
+      "outputPath": "C:\\Users\\sundarsi\\Documents\\UiPath\\UiPath-Assignments\\CalcClientSecurityHash\\.local"
     },
     "frameworks": {
       "net461": {
@@ -1383,5 +1383,14 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Extensions.FileSystemGlobbing 2.2.0' from source 'https://gallery.uipath.com/api/v2': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.Extensions.FileSystemGlobbing"
+    }
+  ]
 }
